@@ -1,0 +1,10 @@
+username1= 'bosukeme'
+password1='dove'
+email='ukeme.wilson@gmail.com'
+full_name= 'Ukeme Wilson'
+
+
+username2= 'davido'
+password2='cat'
+email='david.wilson@gmail.com'
+full_name= 'David Wilson'
