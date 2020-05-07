@@ -1,4 +1,1 @@
-Account Name: ukeme wilson 
-Opening Balance: 1000 
-Account Type: savings 
-Account Email: ukeme@gmail 
+
